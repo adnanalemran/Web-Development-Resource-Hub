@@ -19,8 +19,10 @@ https://wickedblocks.dev/
 https://favicon.io/
 
 # color test  + help
-https://coolors.co/contrast-checker/112a46-acc8e5
+https://coolors.co/contrast-checker
+
 https://uicolors.app/create
+
 https://colorhunt.co/
 
 <!-- make svg flow -->
