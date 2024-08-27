@@ -16,7 +16,7 @@ https://wickedblocks.dev/
 
 https://favicon.io/
 
-# color Test  
+# Color Test  
 
 https://coolors.co/contrast-checker
 
@@ -27,7 +27,19 @@ https://colorhunt.co/
 # Make svg 
 
 https://haikei.app/
+https://meshgradient.com/
 
+# Make illustrations
+
+https://undraw.co/
+ 
 # hover Button 
 
 https://uiverse.io/elements
+
+
+# Css clip-path maker
+
+https://bennettfeely.com/clippy/
+
+https://www.cssportal.com/css-clip-path-generator/
