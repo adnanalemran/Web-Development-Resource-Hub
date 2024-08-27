@@ -1,4 +1,4 @@
-#  Tailwind plug & play components 
+###  Tailwind plug & play components 
 
 https://merakiui.com/components
 
