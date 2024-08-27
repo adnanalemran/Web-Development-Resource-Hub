@@ -16,13 +16,21 @@ https://wickedblocks.dev/
 
 https://favicon.io/
 
-###  Color Test  
+###  Color Test  & Visualize  
+
+https://www.realtimecolors.com/
+
+https://coolors.co/
 
 https://coolors.co/contrast-checker
 
 https://uicolors.app/create
 
 https://colorhunt.co/
+
+https://colorlibrary.ch/test-it/
+
+https://www.creative-tim.com/
 
 ###  Make svg 
 
@@ -33,6 +41,10 @@ https://meshgradient.com/
 ###  Make illustrations
 
 https://undraw.co/
+
+https://www.humaaans.com/
+
+https://www.openpeeps.com/
  
 ###  hover Button 
 
