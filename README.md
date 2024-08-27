@@ -1,5 +1,4 @@
-#  Tailwind plug & play templates -Adnan
-
+#  Tailwind plug & play components 
 
 https://merakiui.com/components
 
@@ -19,5 +18,10 @@ https://wickedblocks.dev/
 
 https://favicon.io/
 
-# color test 
+# color test  + help
+https://coolors.co/contrast-checker/112a46-acc8e5
 https://uicolors.app/create
+https://colorhunt.co/
+
+<!-- make svg flow -->
+https://haikei.app/
