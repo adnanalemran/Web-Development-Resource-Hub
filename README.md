@@ -17,7 +17,7 @@
 - [UI Colors](https://uicolors.app/create) - Create and share beautiful color palettes.
 - [Color Hunt](https://colorhunt.co/) - A free platform for discovering, creating, and sharing color palettes.
 - [Color Library Test](https://colorlibrary.ch/test-it/) - Test color combinations for your design.
-- [Creative Tim](https://www.creative-tim.com/) - Provides UI tools to create web apps, including color palettes.
+ 
 
 ## SVG Generators
 - [Haikei](https://haikei.app/) - Generate unique SVG shapes, waves, and blobs.
