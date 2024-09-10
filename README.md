@@ -9,6 +9,11 @@
 - [Kutty](https://kutty.netlify.app/components/) 
 - [Wicked Blocks](https://wickedblocks.dev/)  
 - [Favicon.io](https://favicon.io/) 
+- [devdojo](https://devdojo.com/tails/app)=
+- [creative-tim](https://www.creative-tim.com/twcomponents)
+- [tailwindflex](https://tailwindflex.com/)
+- [hover Dev](https://www.hover.dev/components)
+
 
 ## Color Test & Visualization
 - [Realtime Colors](https://www.realtimecolors.com/) 
@@ -17,24 +22,21 @@
 - [UI Colors](https://uicolors.app/create)  
 - [Color Hunt](https://colorhunt.co/)  
 - [Color Library Test](https://colorlibrary.ch/test-it/)  
-- [devdojo](https://devdojo.com/tails/app)
 
-- [creative-tim](https://www.creative-tim.com/twcomponents)
- 
 
 
 
 ## SVG Generators
-- [Haikei](https://haikei.app/) - Generate unique SVG shapes, waves, and blobs.
-- [Mesh Gradient](https://meshgradient.com/) - Create and customize mesh gradients.
+- [Haikei](https://haikei.app/) 
+- [Mesh Gradient](https://meshgradient.com/)  
 
 ## Illustration Resources
-- [Undraw](https://undraw.co/) - Open-source illustrations for any idea you can imagine and create.
-- [Humaaans](https://www.humaaans.com/) - Mix-and-match illustrations of people with a design library.
-- [Open Peeps](https://www.openpeeps.com/) - A hand-drawn illustration library to create unique characters.
+- [Undraw](https://undraw.co/) 
+- [Humaaans](https://www.humaaans.com/) 
+- [Open Peeps](https://www.openpeeps.com/)  
 
 ## Hover Button Effects
-- [UIverse](https://uiverse.io/elements) - A collection of interactive buttons and other elements with hover effects.
+- [UIverse](https://uiverse.io/elements)  
 
 
 ## CSS Clip-Path Generators
