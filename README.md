@@ -1,23 +1,28 @@
 # Web Development Resources
 
 ## Tailwind Plug & Play Components
-- [Meraki UI](https://merakiui.com/components) - Beautifully designed components ready for Tailwind CSS.
-- [Kometa UI Kit](https://kitwind.io/products/kometa/components/) - A collection of UI components to jumpstart your next project.
-- [Tailwind Kit](https://www.tailwind-kit.com/components) - Free UI components designed with Tailwind CSS.
-- [Tailblocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS blocks.
-- [Mamba UI](https://mambaui.com/) - Free components and templates based on Tailwind CSS.
-- [Kutty](https://kutty.netlify.app/components/) - Accessible and reusable components for Tailwind CSS.
-- [Wicked Blocks](https://wickedblocks.dev/) - A curated collection of blocks ready to use with Tailwind CSS.
-- [Favicon.io](https://favicon.io/) - Free favicon generator for creating custom favicons.
+- [Meraki UI](https://merakiui.com/components)  
+- [Kometa UI Kit](https://kitwind.io/products/kometa/components/)  
+- [Tailwind Kit](https://www.tailwind-kit.com/components)  
+- [Tailblocks](https://tailblocks.cc/) 
+- [Mamba UI](https://mambaui.com/)  
+- [Kutty](https://kutty.netlify.app/components/) 
+- [Wicked Blocks](https://wickedblocks.dev/)  
+- [Favicon.io](https://favicon.io/) 
 
 ## Color Test & Visualization
-- [Realtime Colors](https://www.realtimecolors.com/) - Test and visualize color schemes in real-time.
-- [Coolors](https://coolors.co/) - Generate perfect color combinations and explore trending palettes.
-- [Contrast Checker](https://coolors.co/contrast-checker) - Check the contrast between two colors for accessibility.
-- [UI Colors](https://uicolors.app/create) - Create and share beautiful color palettes.
-- [Color Hunt](https://colorhunt.co/) - A free platform for discovering, creating, and sharing color palettes.
-- [Color Library Test](https://colorlibrary.ch/test-it/) - Test color combinations for your design.
+- [Realtime Colors](https://www.realtimecolors.com/) 
+- [Coolors](https://coolors.co/)  
+- [Contrast Checker](https://coolors.co/contrast-checker)  
+- [UI Colors](https://uicolors.app/create)  
+- [Color Hunt](https://colorhunt.co/)  
+- [Color Library Test](https://colorlibrary.ch/test-it/)  
+- [devdojo](https://devdojo.com/tails/app)
+
+- [creative-tim](https://www.creative-tim.com/twcomponents)
  
+
+
 
 ## SVG Generators
 - [Haikei](https://haikei.app/) - Generate unique SVG shapes, waves, and blobs.
@@ -30,6 +35,7 @@
 
 ## Hover Button Effects
 - [UIverse](https://uiverse.io/elements) - A collection of interactive buttons and other elements with hover effects.
+
 
 ## CSS Clip-Path Generators
 - [Clippy](https://bennettfeely.com/clippy/) - A simple tool to generate CSS clip paths.
